@@ -1,0 +1,13 @@
+langchain==0.2.16
+langchain-openai==0.1.23
+langchain-community==0.2.16
+langgraph==0.2.16
+openai==1.40.6
+streamlit==1.37.1
+fastapi==0.112.1
+uvicorn==0.30.6
+duckdb==1.0.0
+plotly==5.23.0
+matplotlib==3.9.2
+pydantic==2.8.2
+typing_extensions==4.12.2
